@@ -1,8 +1,5 @@
 # Task Manager 
 
-## Class Notes
-
-
 ### REST APIs 
 
 | URL Paths ➡️<br><br>⬇️ HTTP Methods | /tasks<br><br>(collection)                                                                                                              | /tasks/5<br><br>(resource or entity)                                                                                                                                                                                                                                                  |
